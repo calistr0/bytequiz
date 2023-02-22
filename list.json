@@ -44,5 +44,181 @@
       "Bloquear tráfego indesejado na rede"
     ],
     "resposta": 5
+  },
+  {
+    "pergunta": "Qual é o paradigma de programação em que os programas são compostos por objetos que interagem entre si?",
+    "alternativas": [
+      "Programação imperativa",
+      "Programação funcional",
+      "Programação orientada a objetos",
+      "Programação declarativa",
+      "Programação procedural"
+    ],
+    "resposta": 3
+  },
+  {
+    "pergunta": "Qual é o protocolo utilizado para enviar e-mails pela Internet?",
+    "alternativas": [
+      "SMTP",
+      "FTP",
+      "HTTP",
+      "DNS",
+      "POP3"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o nome dado ao processo de descriptografar dados criptografados?",
+    "alternativas": [
+      "Criptografia",
+      "Decodificação",
+      "Descriptografia",
+      "Codificação",
+      "Encriptação"
+    ],
+    "resposta": 3
+  },
+  {
+    "pergunta": "Qual é o tipo de software que permite aos usuários interagir com o sistema operacional e os aplicativos instalados?",
+    "alternativas": [
+      "Software de sistema",
+      "Software utilitário",
+      "Software de programação",
+      "Software de segurança",
+      "Software de produtividade"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o nome dado ao processo de identificação e correção de erros em um programa?",
+    "alternativas": [
+      "Debugging",
+      "Compilação",
+      "Interpretação",
+      "Depuração",
+      "Teste"
+    ],
+    "resposta": 4
+  },
+  {
+    "pergunta": "Qual é o tipo de memória que é não-volátil, ou seja, não perde as informações armazenadas mesmo quando o computador é desligado?",
+    "alternativas": [
+      "ROM",
+      "HDD",
+      "SSD",
+      "RAM",
+      "Cache"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o nome dado à técnica de conectar vários dispositivos em uma rede local?",
+    "alternativas": [
+      "Routing",
+      "Switching",
+      "Networking",
+      "Tunneling",
+      "Bridging"
+    ],
+    "resposta": 3
+  },
+  {
+    "pergunta": "Qual é o nome dado à técnica de conectar dois pontos de uma rede através de um túnel virtual criptografado?",
+    "alternativas": [
+      "VPN",
+      "SSH",
+      "HTTPS",
+      "DNS",
+      "FTP"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o nome dado à prática de escrever código de forma a torná-lo fácil de entender e manter?",
+    "alternativas": [
+      "Refactoring",
+      "Debugging",
+      "Optimização",
+      "Abstração",
+      "Documentação"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o tipo de ataque que tenta descobrir senhas por meio de uma lista de tentativas?",
+    "alternativas": [
+      "Phishing",
+      "Keylogger",
+      "Sniffing",
+      "Brute force",
+      "DDoS"
+    ],
+    "resposta": 4
+  },
+  {
+    "pergunta": "Qual é o nome dado à técnica que permite que vários programas possam compartilhar a mesma memória RAM?",
+    "alternativas": [
+      "Multiprocessamento",
+      "Multitarefa",
+      "Multithreading",
+      "Virtualização",
+      "Memória compartilhada"
+    ],
+    "resposta": 5
+  },
+  {
+    "pergunta": "Qual é o nome dado à técnica de dividir um problema em partes menores e resolvê-las separadamente?",
+    "alternativas": [
+      "Abstração",
+      "Decomposição",
+      "Refatoração",
+      "Otimização",
+      "Depuração"
+    ],
+    "resposta": 2
+  },
+  {
+    "pergunta": "Qual é o tipo de arquivo que contém apenas as instruções em linguagem de máquina de um programa?",
+    "alternativas": [
+      "Binário",
+      "Objeto",
+      "Código fonte",
+      "Biblioteca",
+      "Linker"
+    ],
+    "resposta": 2
+  },
+  {
+    "pergunta": "Qual é o nome dado à técnica de substituir nomes de variáveis e funções por outros mais descritivos?",
+    "alternativas": [
+      "Refatoração",
+      "Otimização",
+      "Abstração",
+      "Depuração",
+      "Documentação"
+    ],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual é o tipo de software que tem como objetivo proteger um computador ou rede de ameaças externas?",
+    "alternativas": [
+      "Software de produtividade",
+      "Software utilitário",
+      "Software de sistema",
+      "Software de segurança",
+      "Software de virtualização"
+    ],
+    "resposta": 4
+  },
+  {
+    "pergunta": "Qual é o nome dado ao conjunto de informações armazenadas na memória RAM que estão sendo usadas pelo sistema operacional e pelos programas em execução?",
+    "alternativas": [
+      "Cache",
+      "Swap",
+      "Registradores",
+      "Heap",
+      "Pilha"
+    ],
+    "resposta": 2
   }
 ]
