@@ -1,0 +1,49 @@
+[  {
+    "pergunta": "Qual é a linguagem de programação mais usada em todo o mundo?", "alternativas": ["Python", "C++", "Java", "JavaScript", "Ruby"],
+    "resposta": "Java"
+  },
+  {
+    "pergunta": "Qual é o principal objetivo do protocolo de rede TCP/IP?",
+    "alternativas": [
+      "Fornecer segurança na transmissão de dados",
+      "Estabelecer conexões ponto a ponto",
+      "Gerenciar o fluxo de pacotes de rede",
+      "Identificar dispositivos em uma rede",
+      "Padronizar a comunicação entre dispositivos de rede"
+    ],
+    "resposta": "Padronizar a comunicação entre dispositivos de rede"
+  },
+  {
+    "pergunta": "Qual é o tipo de memória que é volátil, ou seja, perde todas as informações armazenadas quando o computador é desligado?",
+    "alternativas": [
+      "ROM",
+      "HDD",
+      "SSD",
+      "RAM",
+      "Cache"
+    ],
+    "resposta": "RAM"
+  },
+  {
+    "pergunta": "Qual é o nome do processo que converte código-fonte em código executável?",
+    "alternativas": [
+      "Compilação",
+      "Depuração",
+      "Interpretação",
+      "Tradução",
+      "Migração"
+    ],
+    "resposta": "Compilação"
+  },
+  {
+    "pergunta": "Qual é o principal objetivo de um firewall?",
+    "alternativas": [
+      "Proteger o computador contra vírus e malware",
+      "Gerenciar o acesso à rede local",
+      "Aumentar a velocidade da conexão com a Internet",
+      "Fornecer recursos de compartilhamento de arquivos",
+      "Bloquear tráfego indesejado na rede"
+    ],
+    "resposta": "Bloquear tráfego indesejado na rede"
+  }
+]
